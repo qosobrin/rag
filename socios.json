@@ -1,6 +1,5 @@
 {
-  "fecha_generacion": "2026-07-28T16:16:04",
-  "total_socios": 369,
+  "fecha_generacion": "2026-07-28T16:46:11",
   "socios": [
     11,
     13,
@@ -371,5 +370,6 @@
     814,
     815,
     816
-  ]
+  ],
+  "total_socios": 369
 }
